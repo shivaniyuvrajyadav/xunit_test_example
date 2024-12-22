@@ -1,0 +1,6 @@
+@xunit_test_example_HostAddress = http://localhost:5168
+
+GET {{xunit_test_example_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
